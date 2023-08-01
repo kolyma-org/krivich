@@ -1,6 +1,9 @@
+<p align="center"><img width="300" src="./docs/readme.webp"/></p>
 
-![VXUG logo](logo.png)
-managed by [vx-underground](https://vx-underground.org) | follow us on [Twitter](https://twitter.com/vxunderground) | download malware samples at the [VXUG/samples](https://vx-underground.org/samples.html) page
+<h1 align="center">Krivich</h1>
+
+<p align="center">Deep Mem Hack tools. In memory of <a href="https://www.marxists.org/history/ussr/culture/soviet-life/full-issues/1971/sim_soviet-life_january-december-1971_index.pdf">Mikhail Krivich</a></p>
+
 
 ## Liability Disclaimer:
 To the maximum extent permitted by applicable law, vx-underground and/or affiliates who have submitted content to vx-underground, shall not be liable for any indirect, incidental, special, consequential or punitive damages, or any loss of profits or revenue, whether incurred directly or indirectly, or any loss of data, use, goodwill, or other intangible losses, resulting from (i) your access to this resource and/or inability to access this resource; (ii) any conduct or content of any third party referenced by this resource, including without limitation, any defamatory, offensive or illegal conduct or other users or third parties; (iii) any content obtained from this resource
@@ -78,14 +81,3 @@ All source code which is *packaged* may or may not be set with the password 'inf
   - Ransomware
   - Rootkits
   - Stealers
-
-## Contributors
-[Marius 'f0wL' Genheimer](https://twitter.com/f0wlsec)  
-[Jan 'Duchy' Neduchal](https://twitter.com/DuchyRE)  
-[Eduardo P. Gomez](https://eduapps-cdg.github.io/about/)  
-[DartPower](https://vk.com/dpteam)  
-[Luca364](https://github.com/luca364)  
-[TheAnonHackUk](https://github.com/theanonhackuk)  
-[Bruce Ediger](https://github.com/bediger4000)  
-Avv  
-Alan Wake
